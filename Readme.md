@@ -13,7 +13,7 @@
 
 ## How to Use
 - Open the **Report (PDF)** for the complete written analysis.  
-- Check the **diagrams folder** for visual representations.  
+- Check the **diagrams folder** for visual representations: https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Diagrams/
 
 ## References
 - Kaggle Competition: [IEEE-CIS Fraud Detection](https://www.kaggle.com/competitions/ieee-fraud-detection)  
