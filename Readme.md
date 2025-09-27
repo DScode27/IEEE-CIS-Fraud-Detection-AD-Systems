@@ -1,6 +1,7 @@
 
 ## Contents
 - **Report (PDF):** Full analysis of the Kaggle competition using systems engineering perspective.
+- Workshop 1: Workshop/Workshop_1_IEEE_Fraud_Detection.pdf
 - **Diagrams:**  
   - Data Flow*: shows the flow of data from raw transactions to fraud detection outcome. 
 
