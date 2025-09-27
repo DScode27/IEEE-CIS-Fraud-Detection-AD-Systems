@@ -21,7 +21,7 @@
 
 ---
 
-**Author:** 
+**Author: Group 4** 
 - Leonardo Rodriguez Salas
 - Santiago Marin
 - Davidson Sanchez
