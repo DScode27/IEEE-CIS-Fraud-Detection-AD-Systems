@@ -12,7 +12,7 @@
 5. **Conclusion:** Key insights on strengths, weaknesses, and real-world implications.  
 
 ## How to Use
-- Open the **Report (PDF)** for the complete written analysis.  
+- Open the **Report (PDF)** for the complete written analysis: https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/
 - Check the **diagrams folder** for visual representations: https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Diagrams/
 
 ## References
