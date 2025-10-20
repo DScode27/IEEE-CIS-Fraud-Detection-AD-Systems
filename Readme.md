@@ -1,12 +1,17 @@
 
 ## Contents
 - **Report (PDF):** Full analysis of the Kaggle competition using systems engineering perspective.
-- Workshop 1: [IEEE-CIS Fraud Detection System Analysis](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_1_IEEE_Fraud_Detection.pdf)
-- Workshop 2: [IEEE-CIS Fraud DEtection System Design](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_2_Design/Proyecto_Análisis_de_Sistemas_II%20(2).pdf).
+- Workshop 1: [IEEE-CIS Fraud Detection System Analysis](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_1_IEEE-CIS_Fraud_Detection_Analysis)
+- Workshop 2: [IEEE-CIS Fraud DEtection System Design](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_2_Design/Workshop_2_IEEE-CIS_Fraud_Detection_Design).
 - **Diagrams:**  
-  - Data Flow Workshop 1*: Shows the flow of data from raw transactions to fraud detection outcome.
-  - Data Flow Workshop 2*: Shows the flow of data through the different modules of the system.
-  - Technical Stack Diagram Workshop 2*: Shows the different technologies that will be used in the system.
+  - **Workshop 1:**
+    - Data Flow Workshop 1*: Shows the flow of data from raw transactions to fraud detection outcome.
+  - **Workshop 2:** [Diagrams Workshop 2](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Diagrams/Workshop_2)
+    - Data Flow Workshop 2*: Shows the flow of data through the different modules of the system.
+    - Technical Stack Diagram Workshop 2*: Shows the different technologies that will be used in the system.
+    - Sequence Diagram Workshop 2*: Illustrates the sequence of interactions between system components, including how data and requests move through the modules during a fraud detection process.
+    - Bussiness process model Workshop 2*: Represents the overall business logic and process steps involved in detecting fraudulent transactions, from data input to model evaluation and alert generation.
+    - Workflow Diagram Workshop 2*: Describes the step-by-step workflow of the system, including data preprocessing, feature engineering, model training, prediction, and decision-making stages.
 
 ## Methodology
 1. **Competition Overview:** Understanding the dataset, target variable, and constraints.  
