@@ -1,6 +1,6 @@
 """
 Systems Analysis & Design - Workshop 4
-Scenario 2: Event-Based Cellular Automata Simulation
+Scenario 2: Event-driven Cellular Automata Simulation
 Spatial Fraud Pattern Detection System
 """
 
