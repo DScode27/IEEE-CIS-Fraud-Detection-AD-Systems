@@ -1,8 +1,10 @@
 
 ## Contents
-- **Report (PDF):** Full analysis of the Kaggle competition using systems engineering perspective.
+- **Reports (Workshops):** Full analysis of the Kaggle competition using systems engineering perspective.
 - Workshop 1: [IEEE-CIS Fraud Detection System Analysis](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_1_IEEE-CIS_Fraud_Detection_Analysis.pdf)
 - Workshop 2: [IEEE-CIS Fraud DEtection System Design](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_2_Design/Workshop_2_IEEE-CIS_Fraud_Detection_Design.pdf).
+- Workshop 3: [IEEE-CIS Fraud Detection Robust Analysis](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_3_IEEE-CIS_Fraud_Detection_Robust_Design.pdf)
+- Workshop 4: [IEEE-CIS Fraud DEtection Simulation](https://github.com/DScode27/IEEE-CIS-Fraud-Detection-AD-Systems/blob/main/Workshop/Workshop_4_Simulation/Workshop_4_IEEE-CIS_Fraud_Detection_Simulation.pdf).
 - **Diagrams:**  
   - **Workshop 1:**
     - Data Flow Workshop 1*: Shows the flow of data from raw transactions to fraud detection outcome.
